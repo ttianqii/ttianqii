@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ttianqii 【🇹🇭🇯🇵】
+- 👋 Hi, I’m @ttianqii , Jaruphat Kiatchaisiriporn【🇹🇭🇯🇵】
 - 💼 BANGKOK UNIVERSITY【バンコク大学】💎
 - 💻 School of Information Technology and Innovation 【Computer Science Major】
-- 📫 CONTACT : ttianqii@gmail.com
+- 📫 CONTACT : jaruphat536@gmail.com
 
 
 
