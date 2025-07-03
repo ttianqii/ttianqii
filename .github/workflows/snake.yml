@@ -1,26 +1,25 @@
-name: Generate Snake Animation
+name: Generate Red Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # runs every day at midnight UTC
+  workflow_dispatch: # allows manual trigger
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake.svg
+      - name: Generate red snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./output/snake.svg
-            ./output/snake-dark.svg?palette=github-dark
+            ./output/snake-red.svg?palette=0e1111,ff0000,ff3333,ff6666,ffffff
 
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "Generate snake animation"
+          message: "Generate red snake animation"
           add: "output/*.svg"
