@@ -4,7 +4,8 @@
 - 📫 CONTACT : jaruphat536@gmail.com
 
 
-![Snake](https://raw.githubusercontent.com/ttianqii/ttianqii/output/snake-crimson-custom2.svg)
+![Snake animation](https://raw.githubusercontent.com/ttianqii/ttianqii/output/snake-crimson.gif)
+
 
 
 
