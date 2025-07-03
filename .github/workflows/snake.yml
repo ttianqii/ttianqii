@@ -32,6 +32,9 @@ jobs:
             dist/snake-crimson-beautiful.svg?color_snake=#dc143c&color_dots=#161B22,#b22222,#cc3030,#dc143c,#8b0000&background=161B22
             dist/snake-custom-crimson.svg?color_snake=#dc143c&color_dots=#161b22,#4d0d0d,#801515,#b22222,#dc143c&background=161b22
             dist/snake-green-dots-red-snake.svg?color_snake=#dc143c&color_dots=#161b22,#01311f,#034525,#0f6d31,#00c647&background=161b22
+            dist/snake-lightgreen.svg?color_snake=#dc143c&color_dots=#EBEDF0,#a3f7bf,#38c172,#1f8b4c,#a3f7bf&background=EBEDF0
+            
+
   
 
 
