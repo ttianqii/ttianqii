@@ -5,6 +5,10 @@
 
 
 
+![Red Snake](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/snake-red.svg)
+
+
+
 <!---
 ttianqii/ttianqii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
