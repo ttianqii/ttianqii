@@ -29,7 +29,10 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             dist/snake-crimson-custom.svg?color_snake=#dc143c&color_dots=#ffcccc,#ff9999,#ff6666,#ff3333,#cc0000&background=161B22
-            
+            dist/snake-crimson-custom2.svg?color_snake=#dc143c&color_dots=#161B22,#ff6666,#ff9999,#ff3333,#cc0000&background=161B22
+          
+
+
 
   
 
