@@ -5,7 +5,7 @@
 
 
 
-![Red Snake](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/snake-red.svg)
+![Red Snake](https://raw.githubusercontent.com/ttianqii/ttianqii/output/snake-red.svg)
 
 
 
