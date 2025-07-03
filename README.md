@@ -4,7 +4,7 @@
 - 📫 CONTACT : jaruphat536@gmail.com
 
 
-![Dark Crimson Snake](https://raw.githubusercontent.com/ttianqii/ttianqii/output/snake-crimson-dark.svg)
+![Red Snake](https://raw.githubusercontent.com/ttianqii/ttianqii/output/snake-red-dark.svg)
 
 
 
