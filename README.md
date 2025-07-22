@@ -1,11 +1,9 @@
 # 👋 Hi there, I'm Jaruphat Kiatchaisiriporn (KAI) 【🇹🇭🇯🇵】
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Bangkok+University+%E3%80%90%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF%E5%A4%A7%E5%AD%A6%E3%80%91;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=BANGKOK+UNIVERSITY+%E3%80%90%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF%E5%A4%A7%E5%AD%A6%E3%80%91;School+of+Information+Technology+and+Innovation;Computer+Science+Major;THAI+ENGLISH+CHINESE+FRENCH+JAPANESE" alt="Typing SVG" />
 </div>
-
 <br>
-
 <div align="center">
   
 ### 🎓 About Me
