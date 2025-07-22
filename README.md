@@ -92,8 +92,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
+
 <div align="center">
-![Snake animation](https://raw.githubusercontent.com/ttianqii/ttianqii/output/snake-green-dots-red-snake.svg)
+  <img src="https://raw.githubusercontent.com/ttianqii/ttianqii/output/snake-green-dots-red-snake.svg" alt="Snake animation" />
 </div>
 
 
