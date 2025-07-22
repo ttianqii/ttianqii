@@ -55,17 +55,6 @@
 
 ---
 
-## 💼 What I'm Working On
-
-- 🔭 Building modern web applications with **React** and **Next.js**
-- 🌱 Exploring backend development with **Go** and **Node.js**
-- 🎯 Studying Computer Science at Bangkok University
-- 💡 Always eager to learn new technologies and frameworks
-- 🚀 Looking for opportunities to contribute to open source projects
-
----
-
-
 ## 📫 Let's Connect!
 
 <div align="center">
