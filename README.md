@@ -1,14 +1,16 @@
+<!DOCTYPE html>
 <body>
     <div class="header-container">
         <!-- Using image from your GitHub repository -->
         <img src="./red-bg1.jpg" alt="Background" class="background-image pixelated">
         <div class="overlay"></div>
         <div class="text-container">
-            <h1 class="main-title">Hello, I'm Kenji</h1>
-            <h2 class="subtitle">Jaruphat Kiatchaisiriporn</h2>
+            <h1 class="pixel-font main-title">Hello, I'm Kenji</h1>
+            <h2 class="pixel-font subtitle">Jaruphat Kiatchaisiriporn</h2>
         </div>
     </div>
 </body>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=BANGKOK+UNIVERSITY+%E3%80%90%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF%E5%A4%A7%E5%AD%A6%E3%80%91;School+of+Information+Technology+and+Innovation;Computer+Science+Major;ภาษาไทย+ENGLISH+中文+FRANÇAIS+日本語" alt="Typing SVG" />
 </div>
