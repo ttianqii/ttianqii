@@ -10,11 +10,13 @@
 </div>
 <br>
 <div align="center">
-### 🎓 About Me
+  
+🎓 About Me
 
 **💼 BANGKOK UNIVERSITY【バンコク大学】💎**  
-** School of Information Technology and Innovation**  
-** Computer Science Major**
+School of Information Technology and Innovation**  
+Computer Science Major
+
 </div>
 
 ---
