@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jaruphat Kiatchaisiriporn 【🇹🇭🇯🇵】
+# 👋 Hi there, I'm Jaruphat Kiatchaisiriporn (KAI) 【🇹🇭🇯🇵】
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Bangkok+University+%E3%80%90%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF%E5%A4%A7%E5%AD%A6%E3%80%91;Always+learning+new+technologies" alt="Typing SVG" />
@@ -87,8 +87,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ttianqii&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  
-  **💙 Thanks for visiting! Let's build something amazing together 🚀**
 </div>
 
 <div align="center">
