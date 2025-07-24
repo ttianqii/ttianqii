@@ -10,10 +10,18 @@
 </div>
 <br>
 <div align="center">
+<<<<<<< HEAD
 <div>ABOUT ME</div>
 <div>BANGKOK UNIVERSITY【バンコク大学】💎</div>
 <div>School of Information Technology and Innovation</div>
 <div>Computer Science Major</div>
+=======
+### 🎓 About Me
+
+**💼 BANGKOK UNIVERSITY【バンコク大学】💎**  
+** School of Information Technology and Innovation**  
+** Computer Science Major**
+>>>>>>> parent of 9e2dc0d (Update README.md)
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 🛠️ Tech Stack
