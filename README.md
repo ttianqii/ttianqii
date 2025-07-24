@@ -28,10 +28,10 @@ Computer Science Major
 <p> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind" style="height:35px;" /> </p>
 
 **Backend Development**
-<p> <img src="https://skillicons.dev/icons?i=nodejs,go" style="height:35px;" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,go,php,prisma,mysql" style="height:35px;" /> </p>
 
 **Design & Tools**
-<p> <img src="https://skillicons.dev/icons?i=figma,git,github,postman,docker,vscode" style="height:35px;" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=figma,git,github,postman,docker,vscode,notion,npm" style="height:35px;" /> </p>
 
 ---
 
