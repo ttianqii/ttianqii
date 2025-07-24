@@ -37,7 +37,7 @@ Computer Science Major
 
 ---
 
-📊 GitHub Analytics
+##📊 GitHub Analytics
 <div align="center">
   <!-- GitHub Stats Cards -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttianqii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8"/>
@@ -56,17 +56,7 @@ Computer Science Major
   <img src="https://komarev.com/ghpvc/?username=ttianqii&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
   <!-- GitHub Trophies -->
 <br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=ttianqii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
-</div>
 
-<div align="center">
-🔥 Coding Metrics
-  <!-- WakaTime Stats (if you have WakaTime setup) -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="WakaTime Stats"/> -->
-</div>
-<div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</div>
 ---
 
 ## 🏆 GitHub Achievements
