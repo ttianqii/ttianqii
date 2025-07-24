@@ -10,10 +10,10 @@
 </div>
 <br>
 <div align="center">
-🎓 ABOUT ME
-💼 BANGKOK UNIVERSITY【バンコク大学】💎
-School of Information Technology and Innovation
-Computer Science Major
+<div>ABOUT ME</div>
+<div>BANGKOK UNIVERSITY【バンコク大学】💎</div>
+<div>School of Information Technology and Innovation</div>
+<div>Computer Science Major</div>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 🛠️ Tech Stack
@@ -29,12 +29,9 @@ Design & Tools
 📊 GitHub Analytics
 <div align="center">
   <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttianqii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttianqii&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8"/>
-</div>
-<div align="center">
-  <!-- GitHub Streak Stats -->
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ttianqii&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=8" alt="GitHub Streak"/>
+</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttianqii&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8"/>
 </div>
 <div align="center">
   <!-- Activity Graph -->
