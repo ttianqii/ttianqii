@@ -29,6 +29,8 @@ Design & Tools
 📊 GitHub Analytics
 <div align="center">
   <!-- GitHub Stats Cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttianqii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttianqii&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8"/>
 </div>
 <div align="center">
   <!-- GitHub Streak Stats -->
