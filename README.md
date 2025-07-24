@@ -27,7 +27,7 @@ Computer Science Major
 **Frontend Development**
 <p> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind" style="height:35px;" /> </p>
 
-**Backend Development**
+**Backend & Database**
 <p> <img src="https://skillicons.dev/icons?i=nodejs,go,php,prisma,mysql" style="height:35px;" /> </p>
 
 **Design & Tools**
