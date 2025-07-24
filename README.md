@@ -37,13 +37,36 @@ Computer Science Major
 
 ---
 
-## 📊 GitHub Stats
-
+📊 GitHub Analytics
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttianqii&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ttianqii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Stats Cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttianqii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttianqii&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8"/>
+</div>
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ttianqii&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=8" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  <!-- Activity Graph -->
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ttianqii&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&area_color=1F6FEB" alt="Contribution Graph"/>
+</div>
+<div align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=ttianqii&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+  <!-- GitHub Trophies -->
+<br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=ttianqii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 </div>
 
+<div align="center">
+🔥 Coding Metrics
+  <!-- WakaTime Stats (if you have WakaTime setup) -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="WakaTime Stats"/> -->
+</div>
+<div align="center">
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
 ---
 
 ## 🏆 GitHub Achievements
