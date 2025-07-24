@@ -3,21 +3,21 @@
   <img src="./header1.png" alt="Kenji Header" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"></img>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=BANGKOK+UNIVERSITY+%E3%80%90%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF%E5%A4%A7%E5%AD%A6%E3%80%91;School+of+Information+Technology+and+Innovation;Computer+Science+Major;ภาษาไทย+ENGLISH+中文+FRANÇAIS+日本語" alt="Typing SVG" />
 </div>
 <br>
 <div align="center">
-### 🎓 About Me
+ 🎓 About Me
 
 **💼 BANGKOK UNIVERSITY【バンコク大学】💎**  
-** School of Information Technology and Innovation**  
-** Computer Science Major**
+School of Information Technology and Innovation
+Computer Science Major
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"></img>
 
 ## 🛠️ Tech Stack
 
