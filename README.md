@@ -10,9 +10,9 @@
 </div>
 <br>
 <div align="center">
-🎓 About Me
+🎓 ABOUT ME
 💼 BANGKOK UNIVERSITY【バンコク大学】💎
-School of Information Technology and Innovation**
+School of Information Technology and Innovation
 Computer Science Major
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -29,6 +29,7 @@ Design & Tools
 📊 GitHub Analytics
 <div align="center">
   <!-- GitHub Stats Cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttianqii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttianqii&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8"/>
 </div>
 <div align="center">
