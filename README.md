@@ -38,23 +38,6 @@ Computer Science Major
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttianqii&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ttianqii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ttianqii&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
